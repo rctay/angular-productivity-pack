@@ -35,7 +35,8 @@
         "rebornix.project-snippets",
         "robertohuertasm.vscode-icons",
         "spikespaz.vscode-smoothtype",
-        "cyrilletuzi.angular-schematics"
+        "cyrilletuzi.angular-schematics",
+        "rctay.karma-problem-matcher"
     ],
     "extensionDependencies": [ 
         "christian-kohler.npm-intellisense",

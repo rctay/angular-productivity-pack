@@ -17,6 +17,8 @@ See an extension that you think should be included? Create an [issue](https://gi
 
 [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics): Launch Angular schematics (CLI commands) from files Explorer (right-click) or Command Palette.
 
+[Karma Problem Matcher](https://marketplace.visualstudio.com/items?itemName=rctay.karma-problem-matcher) - Capture errors from Karma tests running in Visual Studio Code, so test failures will show up in 'Problems' pane (Ctrl+Shift+M on Windows/Linux, ⇧⌘M on Mac) and the failing test can also be made known to VS Code, eg. highlighted with squiggly lines, jumping to it with F8.
+
 ---
 ### Developer Experience Improvements
 
